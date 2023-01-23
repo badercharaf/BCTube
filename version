@@ -1,11 +1,15 @@
 {
 "old":"update",
-"current":"working",
+"current":"fixing",
 "mode":"update",
 "link":"https://bit.ly/BC-Tube",
 "version":"1.38",
 "size":"1.92MB",
-"text":"شكرا لإستخدامك أحدث نسخة",
+"text":"
+يواجه الخادم حاليا مشكلة في التعرف على معرف الفيديوهات
+
+The server is currently having a problem recognizing the video ID
+",
 "click":"0",
 "url":"https://bcbattery.en.uptodown.com/android/download"
 }
