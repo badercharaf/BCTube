@@ -1,12 +1,11 @@
 {
 "old":"update",
-"current":"fixing",
-"link":"https://bit.ly/BC-Tube",
+"current":"working",
+"link":"https://en.uptodown.com/developer/badercharaf",
 "version":"1.38",
 "size":"1.92MB",
-"text":"يواجه الخادم حاليا مشكلة في التعرف على معرف الفيديوهات
-
-The server is currently having a problem recognizing the video ID",
+"text":"إضغط هنا لتكتشف تطبيقاتنا الجديدة
+Click here to explore our new apps",
 "click":"0",
 "url":"https://bcbattery.en.uptodown.com/android/download"
 }
