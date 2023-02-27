@@ -1,10 +1,13 @@
 {
 "old":"update",
 "current":"working",
+
 "link":"https://bit.ly/BC-Tube",
 "version":"1.38",
 "size":"1.92MB",
+
 "text":"توجد نسخة جديدة قريبا، بمزايا رائعة",
+"visibility":"show",
 "click":"0",
 "url":"https://en.uptodown.com/developer/badercharaf"
 }
