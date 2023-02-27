@@ -7,7 +7,10 @@
 "size":"1.92MB",
 
 "text":"توجد نسخة جديدة قريبا، بمزايا رائعة",
+
 "visibility":"show",
+"message":"هذه نسخة تجريبية
+This is beta version",
 "click":"0",
 "url":"https://en.uptodown.com/developer/badercharaf"
 }
